@@ -1,0 +1,14 @@
+button.editBtn {
+    background-color: rgb(24, 129, 226);
+    color: #fbfcfb;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+
+a.nav_link {
+  color: rgb(24, 129, 226);
+}
